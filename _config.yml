@@ -1,6 +1,6 @@
 # Site
 title:              Vaisakh Murali
-bio:                'Guitar::Android::Medicine'
+bio:                'Guitar. Android. Photography.'
 description:        "Hi there, I'm Vaisakh Murali, a student studying at the Osh State University - International Medical Faculty, Kyrgyzstan"
 reading_time:       true
 words_per_minute:   200
@@ -41,6 +41,7 @@ email:              vaisakhmurali@gmail.com
 #twitter:            username
 facebook:           vaisakhmurali911
 github-url:         mvaisakh
+telegram:           mvaisakh
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
