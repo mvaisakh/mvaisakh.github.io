@@ -7,7 +7,7 @@ html { font-family: 'Inter', sans-serif; }
 .vaisakhmurali
 {
     margin-top: 30vh;
-    font-size:120px;
+    font-size: 600%;
     font-family:Inter;
     font-weight: 900;
 }
@@ -28,7 +28,7 @@ html { font-family: 'Inter', sans-serif; }
 
 .bodytext
 {
-    font-size:20px;
+    font-size: 110%;
     font-family:Inter;
     font-weight: 400;
 }
@@ -47,4 +47,11 @@ body.dark-mode > div > button
 body.dark-mode > div > div > button
 {
     color: white;
+}
+
+.menu
+{
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
 }
