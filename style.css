@@ -1,0 +1,40 @@
+.vaisakhmurali
+{
+    margin-top: 30vh;
+    font-size:120px;
+    font-family:Inter;
+    font-weight: 900;
+}
+
+.themebutton
+{
+    border-radius: 50%;
+    text-align: right;
+}
+
+.links
+{
+    margin-top: 2vh;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.bodytext
+{
+    font-size:20px;
+    font-family:Inter;
+    font-weight: 400;
+}
+
+.dark-mode
+{
+    background-color: #232222;
+    color: white;
+}
+
+.light-mode
+{
+    background-color: white;
+    color: black;
+}
