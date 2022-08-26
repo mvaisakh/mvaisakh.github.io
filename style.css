@@ -39,8 +39,12 @@ html { font-family: 'Inter', sans-serif; }
     color: white;
 }
 
-.light-mode
+body.dark-mode > div > button
 {
-    background-color: white;
-    color: black;
+    color: white;
+}
+
+body.dark-mode > div > div > button
+{
+    color: white;
 }
